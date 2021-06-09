@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ridascxz
+- 👀 I’m interested in JavaScript, Python and a bit of C++
+- 🌱 I’m currently learning JavaScript and C
+- 📫 How to reach me with youtube or my discord server
